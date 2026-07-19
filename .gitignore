@@ -1,0 +1,10 @@
+node_modules/
+.pnpm-store/
+dist/
+server/.env
+deploy/.env
+deploy/.env.vm
+/.env.vm.local
+deploy/certs/
+deploy/secrets/
+tmp/

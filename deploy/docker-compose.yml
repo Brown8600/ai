@@ -1,0 +1,60 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    networks: [backend]
+
+  api:
+    build:
+      context: ../server
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      NODE_ENV: production
+      HOST: 0.0.0.0
+      PORT: 3000
+      DATABASE_URL: postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB}
+      WX_MCH_PRIVATE_KEY_PATH: /run/secrets/wechat_mch_private_key.pem
+      WX_PLATFORM_CERT_PATH: /run/secrets/wechat_platform_cert.pem
+    volumes:
+      - ./secrets/wechat_mch_private_key.pem:/run/secrets/wechat_mch_private_key.pem:ro
+      - ./secrets/wechat_platform_cert.pem:/run/secrets/wechat_platform_cert.pem:ro
+    depends_on:
+      postgres:
+        condition: service_healthy
+    expose: ["3000"]
+    networks: [backend]
+
+  nginx:
+    image: nginx:1.27-alpine
+    restart: unless-stopped
+    environment:
+      API_DOMAIN: ${API_DOMAIN}
+      NGINX_ENVSUBST_FILTER: '^API_DOMAIN'
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/default.conf.template:/etc/nginx/templates/default.conf.template:ro
+      - /etc/letsencrypt:/etc/letsencrypt:ro
+    depends_on: [api]
+    networks: [backend]
+
+volumes:
+  postgres_data:
+
+networks:
+  backend:
+    driver: bridge

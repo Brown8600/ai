@@ -1,0 +1,193 @@
+{"kind":"deck","id":"pr/o08v56","name":"Deck"}
+{"kind":"layout","layoutId":"fa6a1dd5-b4ac-4d7c-b4f8-c1b3fde1f04a","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"1d8574d9-bfba-4bb8-9c43-19cbb2c90543","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/tx3dw2","slide":1,"title":"科技前沿 · 2026","textShapes":6}
+{"kind":"shape","id":"sh/0ni1wfq1","slide":1,"bbox":[930,0,350,720]}
+{"kind":"shape","id":"sh/zm9k3u9w","slide":1,"bbox":[930,465,350,255]}
+{"kind":"textbox","id":"sh/el0jup8b","slide":1,"text":"科技前沿 · 2026","textPreview":"科技前沿 · 2026","textChars":11,"textLines":1,"bbox":[42,42,420,44]}
+{"kind":"textbox","id":"sh/dkr21krq","slide":1,"text":"AI 科技发展","textPreview":"AI 科技发展","textChars":7,"textLines":1,"bbox":[42,190,820,120]}
+{"kind":"textbox","id":"sh/cji1sfq5","slide":1,"text":"从算法突破到智能基础设施","textPreview":"从算法突破到智能基础设施","textChars":12,"textLines":1,"bbox":[42,340,720,60]}
+{"kind":"textbox","id":"sh/ripkza9k","slide":1,"text":"理解演进逻辑、产业影响与下一阶段机会","textPreview":"理解演进逻辑、产业影响与下一阶段机会","textChars":18,"textLines":1,"bbox":[42,525,690,72]}
+{"kind":"textbox","id":"sh/qhgjq5sz","slide":1,"text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[984,92,220,130]}
+{"kind":"textbox","id":"sh/xgb2d4ru","slide":1,"text":"模型\n数据\n算力","textPreview":"模型 | 数据 | 算力","textChars":8,"textLines":3,"bbox":[985,490,220,150]}
+{"kind":"notes","id":"nt/tx3dw2","slide":1,"text":""}
+{"kind":"slide","id":"sl/066u4h","slide":2,"title":"AI 的发展不是直线，而是多轮技术积累后的跃迁","textShapes":14}
+{"kind":"textbox","id":"sh/r698v65o","slide":2,"text":"AI 的发展不是直线，而是多轮技术积累后的跃迁","textPreview":"AI 的发展不是直线，而是多轮技术积累后的跃迁","textChars":23,"textLines":1,"bbox":[42,34,1160,72]}
+{"kind":"shape","id":"sh/s7ip4bmt","slide":2,"bbox":[70,356,1120,1]}
+{"kind":"shape","id":"sh/d8rqxgne","slide":2,"bbox":[90,347,18,18]}
+{"kind":"textbox","id":"sh/e90rql4z","slide":2,"text":"1956—1980s","textPreview":"1956—1980s","textChars":10,"textLines":1,"bbox":[90,292,220,30]}
+{"kind":"textbox","id":"sh/fa98zq5k","slide":2,"text":"符号主义","textPreview":"符号主义","textChars":4,"textLines":1,"bbox":[90,402,220,44]}
+{"kind":"textbox","id":"sh/0b29sbm5","slide":2,"text":"规则、搜索与专家系统\n建立机器推理的早期框架","textPreview":"规则、搜索与专家系统 | 建立机器推理的早期框架","textChars":22,"textLines":2,"bbox":[90,462,235,105]}
+{"kind":"shape","id":"sh/1wbq1g3q","slide":2,"bbox":[400,347,18,18]}
+{"kind":"textbox","id":"sh/2xkrul4b","slide":2,"text":"1990s—2011","textPreview":"1990s—2011","textChars":10,"textLines":1,"bbox":[400,292,220,30]}
+{"kind":"textbox","id":"sh/nyt83qlg","slide":2,"text":"统计学习","textPreview":"统计学习","textChars":4,"textLines":1,"bbox":[400,402,220,44]}
+{"kind":"textbox","id":"sh/7m1g7ytw","slide":2,"text":"数据驱动方法兴起\n支持向量机与集成学习普及","textPreview":"数据驱动方法兴起 | 支持向量机与集成学习普及","textChars":21,"textLines":2,"bbox":[400,462,235,105]}
+{"kind":"shape","id":"sh/6lsfetsb","slide":2,"bbox":[710,347,18,18]}
+{"kind":"textbox","id":"sh/to3y98b2","slide":2,"text":"2012—2021","textPreview":"2012—2021","textChars":9,"textLines":1,"bbox":[710,292,220,30]}
+{"kind":"textbox","id":"sh/snaxg3ah","slide":2,"text":"深度学习","textPreview":"深度学习","textChars":4,"textLines":1,"bbox":[710,402,220,44]}
+{"kind":"textbox","id":"sh/jy1g3yt0","slide":2,"text":"GPU 与大数据推动感知突破\n视觉、语音和翻译快速进步","textPreview":"GPU 与大数据推动感知突破 | 视觉、语音和翻译快速进步","textChars":27,"textLines":2,"bbox":[710,462,235,105]}
+{"kind":"shape","id":"sh/yxsfatsf","slide":2,"bbox":[1010,347,18,18]}
+{"kind":"textbox","id":"sh/l0jy5obq","slide":2,"text":"2022—至今","textPreview":"2022—至今","textChars":7,"textLines":1,"bbox":[1010,292,220,30]}
+{"kind":"textbox","id":"sh/kzaxcjal","slide":2,"text":"生成式 AI","textPreview":"生成式 AI","textChars":6,"textLines":1,"bbox":[1010,402,220,44]}
+{"kind":"textbox","id":"sh/3ulgfi94","slide":2,"text":"基础模型走向通用交互\n多模态与智能体加速落地","textPreview":"基础模型走向通用交互 | 多模态与智能体加速落地","textChars":22,"textLines":2,"bbox":[1010,462,235,105]}
+{"kind":"textbox","id":"sh/2tczmdsj","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1180,665,58,22]}
+{"kind":"notes","id":"nt/066u4h","slide":2,"text":""}
+{"kind":"slide","id":"sl/e3sk8s","slide":3,"title":"算法、数据与算力共同决定 AI 能力边界","textShapes":12}
+{"kind":"textbox","id":"sh/nyd8bq9k","slide":3,"text":"算法、数据与算力共同决定 AI 能力边界","textPreview":"算法、数据与算力共同决定 AI 能力边界","textChars":20,"textLines":1,"bbox":[42,34,1160,72]}
+{"kind":"shape","id":"sh/ozm94vq5","slide":3,"bbox":[42,190,376,340]}
+{"kind":"shape","id":"sh/p0vqd07q","slide":3,"bbox":[42,190,376,10]}
+{"kind":"textbox","id":"sh/a14r658b","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[66,225,80,58]}
+{"kind":"textbox","id":"sh/bmxsfapw","slide":3,"text":"算法","textPreview":"算法","textChars":2,"textLines":1,"bbox":[66,302,320,52]}
+{"kind":"textbox","id":"sh/cn698vq1","slide":3,"text":"Transformer、扩散模型与强化学习提升了表示、生成和决策能力。","textPreview":"Transformer、扩散模型与强化学习提升了表示、生成和决策能力。","textChars":35,"textLines":1,"bbox":[66,382,320,112]}
+{"kind":"shape","id":"sh/xofah07m","slide":3,"bbox":[452,190,376,340]}
+{"kind":"shape","id":"sh/q5kru18r","slide":3,"bbox":[452,190,376,10]}
+{"kind":"textbox","id":"sh/r6t8369c","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[476,225,80,58]}
+{"kind":"textbox","id":"sh/rmpcjixs","slide":3,"text":"数据","textPreview":"数据","textChars":2,"textLines":1,"bbox":[476,302,320,52]}
+{"kind":"textbox","id":"sh/qlgbqdg7","slide":3,"text":"高质量语料、合成数据与反馈数据决定模型知识覆盖和行为质量。","textPreview":"高质量语料、合成数据与反馈数据决定模型知识覆盖和行为质量。","textChars":29,"textLines":1,"bbox":[476,382,320,112]}
+{"kind":"shape","id":"sh/d87ulsfy","slide":3,"bbox":[862,190,376,340]}
+{"kind":"shape","id":"sh/cnytsnyd","slide":3,"bbox":[862,190,376,10]}
+{"kind":"textbox","id":"sh/3i5sfixw","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[886,225,80,58]}
+{"kind":"textbox","id":"sh/2hwbmdgb","slide":3,"text":"算力","textPreview":"算力","textChars":2,"textLines":1,"bbox":[886,302,320,52]}
+{"kind":"textbox","id":"sh/pk7ah8f2","slide":3,"text":"GPU、专用芯片和分布式训练将更大模型变成可实现的工程系统。","textPreview":"GPU、专用芯片和分布式训练将更大模型变成可实现的工程系统。","textChars":30,"textLines":1,"bbox":[886,382,320,112]}
+{"kind":"textbox","id":"sh/4jyto3yh","slide":3,"text":"三者形成正反馈：更好的模型产生更多数据，也催生更高效的计算架构。","textPreview":"三者形成正反馈：更好的模型产生更多数据，也催生更高效的计算架构。","textChars":32,"textLines":1,"bbox":[42,585,1120,44]}
+{"kind":"textbox","id":"sh/fe5sbyhk","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1180,665,58,22]}
+{"kind":"notes","id":"nt/e3sk8s","slide":3,"text":""}
+{"kind":"slide","id":"sl/ul1ypk","slide":4,"title":"生成式 AI 正从“会回答”走向“能完成任务”","textShapes":16}
+{"kind":"textbox","id":"sh/43ut0fep","slide":4,"text":"生成式 AI 正从“会回答”走向“能完成任务”","textPreview":"生成式 AI 正从“会回答”走向“能完成任务”","textChars":23,"textLines":1,"bbox":[42,34,1160,72]}
+{"kind":"shape","id":"sh/32lc7adk","slide":4,"bbox":[70,238,235,195]}
+{"kind":"textbox","id":"sh/i1sby5wz","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[90,258,60,32]}
+{"kind":"textbox","id":"sh/d83udkvm","slide":4,"text":"基础模型","textPreview":"基础模型","textChars":4,"textLines":1,"bbox":[90,313,195,40]}
+{"kind":"textbox","id":"sh/c7ud4fe1","slide":4,"text":"语言 · 视觉 · 语音","textPreview":"语言 · 视觉 · 语音","textChars":12,"textLines":1,"bbox":[90,372,195,34]}
+{"kind":"shape","id":"sh/r6lcbadg","slide":4,"bbox":[317,315,78,36]}
+{"kind":"shape","id":"sh/q5cb2pwv","slide":4,"bbox":[360,238,235,195]}
+{"kind":"textbox","id":"sh/tcju10f2","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[380,258,60,32]}
+{"kind":"textbox","id":"sh/8batsvex","slide":4,"text":"工具调用","textPreview":"工具调用","textChars":4,"textLines":1,"bbox":[380,313,195,40]}
+{"kind":"textbox","id":"sh/y50by9cj","slide":4,"text":"搜索 · 代码 · 数据库","textPreview":"搜索 · 代码 · 数据库","textChars":13,"textLines":1,"bbox":[380,372,195,34]}
+{"kind":"shape","id":"sh/j69c7ed4","slide":4,"bbox":[607,315,78,36]}
+{"kind":"shape","id":"sh/k72t0jup","slide":4,"bbox":[650,238,235,195]}
+{"kind":"textbox","id":"sh/l8bu9oba","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[670,258,60,32]}
+{"kind":"textbox","id":"sh/6tkb29cv","slide":4,"text":"记忆与规划","textPreview":"记忆与规划","textChars":5,"textLines":1,"bbox":[670,313,195,40]}
+{"kind":"textbox","id":"sh/7utcbetg","slide":4,"text":"上下文 · 分解 · 反思","textPreview":"上下文 · 分解 · 反思","textChars":13,"textLines":1,"bbox":[670,372,195,34]}
+{"kind":"shape","id":"sh/8v2t4ju1","slide":4,"bbox":[897,315,78,36]}
+{"kind":"shape","id":"sh/twbudob6","slide":4,"bbox":[940,238,235,195]}
+{"kind":"textbox","id":"sh/uxkb6tcr","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[960,258,60,32]}
+{"kind":"textbox","id":"sh/vytcfytc","slide":4,"text":"智能体","textPreview":"智能体","textChars":3,"textLines":1,"bbox":[960,313,195,40]}
+{"kind":"textbox","id":"sh/r2ds3y9k","slide":4,"text":"执行 · 协作 · 反馈","textPreview":"执行 · 协作 · 反馈","textChars":12,"textLines":1,"bbox":[960,372,195,34]}
+{"kind":"textbox","id":"sh/q14butsz","slide":4,"text":"关键变化","textPreview":"关键变化","textChars":4,"textLines":1,"bbox":[70,505,160,35]}
+{"kind":"textbox","id":"sh/d4va58rq","slide":4,"text":"模型能力不再只是聊天窗口中的内容生成，而是被嵌入业务流程，连接工具并持续执行。","textPreview":"模型能力不再只是聊天窗口中的内容生成，而是被嵌入业务流程，连接工具并持续执行。","textChars":39,"textLines":1,"bbox":[225,501,925,65]}
+{"kind":"textbox","id":"sh/s3mtw3a5","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1180,665,58,22]}
+{"kind":"notes","id":"nt/ul1ypk","slide":4,"text":""}
+{"kind":"slide","id":"sl/5eclvq","slide":5,"title":"产业价值首先出现在高频、知识密集和可验证的流程","textShapes":26}
+{"kind":"textbox","id":"sh/y5greh07","slide":5,"text":"产业价值首先出现在高频、知识密集和可验证的流程","textPreview":"产业价值首先出现在高频、知识密集和可验证的流程","textChars":23,"textLines":1,"bbox":[42,34,1160,72]}
+{"kind":"textbox","id":"sh/l87apcji","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,160,45,28]}
+{"kind":"textbox","id":"sh/k7y9g7ix","slide":5,"text":"软件研发","textPreview":"软件研发","textChars":4,"textLines":1,"bbox":[42,202,250,38]}
+{"kind":"textbox","id":"sh/b258j21g","slide":5,"text":"代码补全 · 测试生成\n缺陷定位 · 文档维护","textPreview":"代码补全 · 测试生成 | 缺陷定位 · 文档维护","textChars":23,"textLines":2,"bbox":[42,252,255,70]}
+{"kind":"shape","id":"sh/ahwrax0v","slide":5,"bbox":[42,345,255,1]}
+{"kind":"textbox","id":"sh/x47alcjm","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[342,160,45,28]}
+{"kind":"textbox","id":"sh/w3y9c7i1","slide":5,"text":"客户服务","textPreview":"客户服务","textChars":4,"textLines":1,"bbox":[342,202,250,38]}
+{"kind":"textbox","id":"sh/ne58f21k","slide":5,"text":"智能问答 · 工单总结\n坐席辅助 · 质检","textPreview":"智能问答 · 工单总结 | 坐席辅助 · 质检","textChars":21,"textLines":2,"bbox":[342,252,255,70]}
+{"kind":"shape","id":"sh/mdwr6x0z","slide":5,"bbox":[342,345,255,1]}
+{"kind":"textbox","id":"sh/0rupcr2p","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[642,160,45,28]}
+{"kind":"textbox","id":"sh/1s3qlw3a","slide":5,"text":"内容与营销","textPreview":"内容与营销","textChars":5,"textLines":1,"bbox":[642,202,250,38]}
+{"kind":"textbox","id":"sh/eps7ahkz","slide":5,"text":"创意生成 · 个性化\n素材生产 · 效果分析","textPreview":"创意生成 · 个性化 | 素材生产 · 效果分析","textChars":22,"textLines":2,"bbox":[642,252,255,70]}
+{"kind":"shape","id":"sh/fq18jmlk","slide":5,"bbox":[642,345,255,1]}
+{"kind":"textbox","id":"sh/snap872t","slide":5,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[942,160,45,28]}
+{"kind":"textbox","id":"sh/dojqhc3e","slide":5,"text":"科研与医疗","textPreview":"科研与医疗","textChars":5,"textLines":1,"bbox":[942,202,250,38]}
+{"kind":"textbox","id":"sh/q1s76hkn","slide":5,"text":"文献检索 · 分子设计\n影像辅助 · 临床记录","textPreview":"文献检索 · 分子设计 | 影像辅助 · 临床记录","textChars":23,"textLines":2,"bbox":[942,252,255,70]}
+{"kind":"shape","id":"sh/rm18f2l8","slide":5,"bbox":[942,345,255,1]}
+{"kind":"textbox","id":"sh/cje9kb2x","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[42,390,45,28]}
+{"kind":"textbox","id":"sh/xknqtg3i","slide":5,"text":"制造业","textPreview":"制造业","textChars":3,"textLines":1,"bbox":[42,432,250,38]}
+{"kind":"textbox","id":"sh/l4zyhc7q","slide":5,"text":"视觉质检 · 预测维护\n工艺优化 · 机器人","textPreview":"视觉质检 · 预测维护 | 工艺优化 · 机器人","textChars":22,"textLines":2,"bbox":[42,482,255,70]}
+{"kind":"shape","id":"sh/k3qho7q5","slide":5,"bbox":[42,575,255,1]}
+{"kind":"textbox","id":"sh/z2hgf2pk","slide":5,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[342,390,45,28]}
+{"kind":"textbox","id":"sh/y18zmx8z","slide":5,"text":"金融服务","textPreview":"金融服务","textChars":4,"textLines":1,"bbox":[342,432,250,38]}
+{"kind":"textbox","id":"sh/x0zydsre","slide":5,"text":"研究辅助 · 风险识别\n合规审查 · 运营自动化","textPreview":"研究辅助 · 风险识别 | 合规审查 · 运营自动化","textChars":24,"textLines":2,"bbox":[342,482,255,70]}
+{"kind":"shape","id":"sh/cz6hk7qt","slide":5,"bbox":[342,575,255,1]}
+{"kind":"textbox","id":"sh/byxgb298","slide":5,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[642,390,45,28]}
+{"kind":"textbox","id":"sh/axozix8n","slide":5,"text":"教育","textPreview":"教育","textChars":2,"textLines":1,"bbox":[642,432,250,38]}
+{"kind":"textbox","id":"sh/pwfy9sri","slide":5,"text":"自适应辅导 · 备课\n评价反馈 · 内容生成","textPreview":"自适应辅导 · 备课 | 评价反馈 · 内容生成","textChars":22,"textLines":2,"bbox":[642,482,255,70]}
+{"kind":"shape","id":"sh/ov6hgnqx","slide":5,"bbox":[642,575,255,1]}
+{"kind":"textbox","id":"sh/e14vatof","slide":5,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[942,390,45,28]}
+{"kind":"textbox","id":"sh/f2dwjyp0","slide":5,"text":"企业管理","textPreview":"企业管理","textChars":4,"textLines":1,"bbox":[942,432,250,38]}
+{"kind":"textbox","id":"sh/03mxc36l","slide":5,"text":"知识检索 · 会议总结\n数据分析 · 决策支持","textPreview":"知识检索 · 会议总结 | 数据分析 · 决策支持","textChars":23,"textLines":2,"bbox":[942,482,255,70]}
+{"kind":"shape","id":"sh/14vel8n6","slide":5,"bbox":[942,575,255,1]}
+{"kind":"textbox","id":"sh/qdkv69oj","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1180,665,58,22]}
+{"kind":"notes","id":"nt/5eclvq","slide":5,"text":""}
+{"kind":"slide","id":"sl/7o03v4","slide":6,"title":"AI 竞争正在扩展为一场完整的基础设施竞赛","textShapes":9}
+{"kind":"textbox","id":"sh/h83utszi","slide":6,"text":"AI 竞争正在扩展为一场完整的基础设施竞赛","textPreview":"AI 竞争正在扩展为一场完整的基础设施竞赛","textChars":21,"textLines":1,"bbox":[42,34,1160,72]}
+{"kind":"textbox","id":"sh/u5svyxgr","slide":6,"text":"相对能力示意","textPreview":"相对能力示意","textChars":6,"textLines":1,"bbox":[42,118,220,28]}
+{"kind":"shape","id":"sh/v61cr2hc","slide":6,"bbox":[690,160,500,135]}
+{"kind":"textbox","id":"sh/83atwny1","slide":6,"text":"芯片与互联","textPreview":"芯片与互联","textChars":5,"textLines":1,"bbox":[720,185,200,34]}
+{"kind":"textbox","id":"sh/94jupsz6","slide":6,"text":"训练效率、推理成本与能耗","textPreview":"训练效率、推理成本与能耗","textChars":12,"textLines":1,"bbox":[720,235,410,32]}
+{"kind":"shape","id":"sh/m1sbudgv","slide":6,"bbox":[690,320,500,135]}
+{"kind":"textbox","id":"sh/721cnihg","slide":6,"text":"云与数据中心","textPreview":"云与数据中心","textChars":6,"textLines":1,"bbox":[720,345,250,34]}
+{"kind":"textbox","id":"sh/kzqts3yp","slide":6,"text":"弹性算力、集群调度与供电散热","textPreview":"弹性算力、集群调度与供电散热","textChars":14,"textLines":1,"bbox":[720,395,410,32]}
+{"kind":"shape","id":"sh/l0jul8za","slide":6,"bbox":[690,480,500,135]}
+{"kind":"textbox","id":"sh/hcvat8ja","slide":6,"text":"模型与开发平台","textPreview":"模型与开发平台","textChars":7,"textLines":1,"bbox":[720,505,260,34]}
+{"kind":"textbox","id":"sh/gbm9k3ip","slide":6,"text":"开源生态、工具链与应用分发","textPreview":"开源生态、工具链与应用分发","textChars":13,"textLines":1,"bbox":[720,555,410,32]}
+{"kind":"textbox","id":"sh/fadsry14","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1180,665,58,22]}
+{"kind":"chart","id":"ch/qpwr6lwr","slide":6,"name":"","chartType":"bar","bbox":[42,155,580,470]}
+{"kind":"notes","id":"nt/7o03v4","slide":6,"text":""}
+{"kind":"slide","id":"sl/kwoqlb","slide":7,"title":"能力提升越快，治理越需要嵌入产品与组织流程","textShapes":23}
+{"kind":"textbox","id":"sh/uxs7qx83","slide":7,"text":"能力提升越快，治理越需要嵌入产品与组织流程","textPreview":"能力提升越快，治理越需要嵌入产品与组织流程","textChars":21,"textLines":1,"bbox":[42,34,1160,72]}
+{"kind":"textbox","id":"sh/h0j61cru","slide":7,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[55,165,70,44]}
+{"kind":"textbox","id":"sh/gzaps7q9","slide":7,"text":"可靠性","textPreview":"可靠性","textChars":3,"textLines":1,"bbox":[55,225,250,42]}
+{"kind":"textbox","id":"sh/32lo3290","slide":7,"text":"幻觉、脆弱性与不可预测输出","textPreview":"幻觉、脆弱性与不可预测输出","textChars":13,"textLines":1,"bbox":[55,295,250,75]}
+{"kind":"shape","id":"sh/21c7uh8f","slide":7,"bbox":[55,410,250,120]}
+{"kind":"textbox","id":"sh/p4365crq","slide":7,"text":"应对","textPreview":"应对","textChars":2,"textLines":1,"bbox":[73,430,60,25]}
+{"kind":"textbox","id":"sh/43upw7q5","slide":7,"text":"评测集 + 人工复核 + 运行监控","textPreview":"评测集 + 人工复核 + 运行监控","textChars":17,"textLines":1,"bbox":[73,468,215,48]}
+{"kind":"textbox","id":"sh/j6hori9g","slide":7,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[355,165,70,44]}
+{"kind":"textbox","id":"sh/i58nid8v","slide":7,"text":"安全与隐私","textPreview":"安全与隐私","textChars":5,"textLines":1,"bbox":[355,225,250,42]}
+{"kind":"textbox","id":"sh/ov2x0ry9","slide":7,"text":"提示注入、数据泄露与滥用","textPreview":"提示注入、数据泄露与滥用","textChars":12,"textLines":1,"bbox":[355,295,250,75]}
+{"kind":"shape","id":"sh/pgbetwfu","slide":7,"bbox":[355,410,250,120]}
+{"kind":"textbox","id":"sh/2t0fyhg3","slide":7,"text":"应对","textPreview":"应对","textChars":2,"textLines":1,"bbox":[373,430,60,25]}
+{"kind":"textbox","id":"sh/3u9wrmxo","slide":7,"text":"权限隔离 + 数据最小化 + 红队测试","textPreview":"权限隔离 + 数据最小化 + 红队测试","textChars":19,"textLines":1,"bbox":[373,468,215,48]}
+{"kind":"textbox","id":"sh/cj2x4byl","slide":7,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[655,165,70,44]}
+{"kind":"textbox","id":"sh/xkbyxgfq","slide":7,"text":"公平与责任","textPreview":"公平与责任","textChars":5,"textLines":1,"bbox":[655,225,250,42]}
+{"kind":"textbox","id":"sh/qhkf21gf","slide":7,"text":"偏差、歧视与责任边界不清","textPreview":"偏差、歧视与责任边界不清","textChars":12,"textLines":1,"bbox":[655,295,250,75]}
+{"kind":"shape","id":"sh/bitwv6x0","slide":7,"bbox":[655,410,250,120]}
+{"kind":"textbox","id":"sh/snyxs7y1","slide":7,"text":"应对","textPreview":"应对","textChars":2,"textLines":1,"bbox":[673,430,60,25]}
+{"kind":"textbox","id":"sh/torelczm","slide":7,"text":"影响评估 + 可追溯记录 + 责任人","textPreview":"影响评估 + 可追溯记录 + 责任人","textChars":18,"textLines":1,"bbox":[673,468,215,48]}
+{"kind":"textbox","id":"sh/tkjup8ra","slide":7,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[955,165,70,44]}
+{"kind":"textbox","id":"sh/8jqdg3q5","slide":7,"text":"版权与合规","textPreview":"版权与合规","textChars":5,"textLines":1,"bbox":[955,225,250,42]}
+{"kind":"textbox","id":"sh/7ihcny9k","slide":7,"text":"训练数据、生成内容和跨境要求","textPreview":"训练数据、生成内容和跨境要求","textChars":14,"textLines":1,"bbox":[955,295,250,75]}
+{"kind":"shape","id":"sh/6h8vet8z","slide":7,"bbox":[955,410,250,120]}
+{"kind":"textbox","id":"sh/hojut8rm","slide":7,"text":"应对","textPreview":"应对","textChars":2,"textLines":1,"bbox":[973,430,60,25]}
+{"kind":"textbox","id":"sh/gnadk3q1","slide":7,"text":"来源治理 + 合同约束 + 持续审计","textPreview":"来源治理 + 合同约束 + 持续审计","textChars":18,"textLines":1,"bbox":[973,468,215,48]}
+{"kind":"textbox","id":"sh/vm1cri9g","slide":7,"text":"治理不是创新的刹车，而是规模化采用的前提。","textPreview":"治理不是创新的刹车，而是规模化采用的前提。","textChars":21,"textLines":1,"bbox":[55,590,1050,42]}
+{"kind":"textbox","id":"sh/ulsvid8v","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1180,665,58,22]}
+{"kind":"notes","id":"nt/kwoqlb","slide":7,"text":""}
+{"kind":"slide","id":"sl/0oh9r3","slide":8,"title":"下一阶段，AI 将更小、更专、更自主，也更贴近物理世界","textShapes":16}
+{"kind":"textbox","id":"sh/lkf2x8rm","slide":8,"text":"下一阶段，AI 将更小、更专、更自主，也更贴近物理世界","textPreview":"下一阶段，AI 将更小、更专、更自主，也更贴近物理世界","textChars":27,"textLines":1,"bbox":[42,34,1160,72]}
+{"kind":"shape","id":"sh/yho3md8v","slide":8,"bbox":[45,175,260,170]}
+{"kind":"textbox","id":"sh/jixkvy9g","slide":8,"text":"模型效率","textPreview":"模型效率","textChars":4,"textLines":1,"bbox":[65,199,220,34]}
+{"kind":"textbox","id":"sh/wfmlk3q5","slide":8,"text":"蒸馏、量化和稀疏化让高性能模型进入端侧。","textPreview":"蒸馏、量化和稀疏化让高性能模型进入端侧。","textChars":20,"textLines":1,"bbox":[65,255,220,64]}
+{"kind":"shape","id":"sh/xgv2t8ra","slide":8,"bbox":[345,175,260,170]}
+{"kind":"textbox","id":"sh/ad43it8z","slide":8,"text":"多模态原生","textPreview":"多模态原生","textChars":5,"textLines":1,"bbox":[365,199,220,34]}
+{"kind":"textbox","id":"sh/bedkry9k","slide":8,"text":"文本、图像、声音与视频在统一模型中协同。","textPreview":"文本、图像、声音与视频在统一模型中协同。","textChars":20,"textLines":1,"bbox":[365,255,220,64]}
+{"kind":"shape","id":"sh/gbqlwnq9","slide":8,"bbox":[645,175,260,170]}
+{"kind":"textbox","id":"sh/hczm5s7u","slide":8,"text":"智能体协作","textPreview":"智能体协作","textChars":5,"textLines":1,"bbox":[665,199,220,34]}
+{"kind":"textbox","id":"sh/pkvmtcr2","slide":8,"text":"多个智能体分工、调用工具并形成可审计工作流。","textPreview":"多个智能体分工、调用工具并形成可审计工作流。","textChars":22,"textLines":1,"bbox":[665,255,220,64]}
+{"kind":"shape","id":"sh/4jml07qh","slide":8,"bbox":[945,175,260,170]}
+{"kind":"textbox","id":"sh/3idkrm9w","slide":8,"text":"具身智能","textPreview":"具身智能","textChars":4,"textLines":1,"bbox":[965,199,220,34]}
+{"kind":"textbox","id":"sh/2h43yh8r","slide":8,"text":"AI 与机器人结合，在真实环境中感知和行动。","textPreview":"AI 与机器人结合，在真实环境中感知和行动。","textChars":22,"textLines":1,"bbox":[965,255,220,64]}
+{"kind":"shape","id":"sh/hgv2pcr6","slide":8,"bbox":[195,405,260,170]}
+{"kind":"textbox","id":"sh/gf2lw7ql","slide":8,"text":"科学智能","textPreview":"科学智能","textChars":4,"textLines":1,"bbox":[215,429,220,34]}
+{"kind":"textbox","id":"sh/futkn290","slide":8,"text":"模型参与假设生成、实验设计与材料发现。","textPreview":"模型参与假设生成、实验设计与材料发现。","textChars":19,"textLines":1,"bbox":[215,485,220,64]}
+{"kind":"shape","id":"sh/utk3ux8f","slide":8,"bbox":[495,405,260,170]}
+{"kind":"textbox","id":"sh/lcfm1w7a","slide":8,"text":"个性化 AI","textPreview":"个性化 AI","textChars":6,"textLines":1,"bbox":[515,429,220,34]}
+{"kind":"textbox","id":"sh/0b6l8rqp","slide":8,"text":"长期记忆与本地数据形成个人和组织智能层。","textPreview":"长期记忆与本地数据形成个人和组织智能层。","textChars":20,"textLines":1,"bbox":[515,485,220,64]}
+{"kind":"shape","id":"sh/kve54fy1","slide":8,"bbox":[795,405,260,170]}
+{"kind":"textbox","id":"sh/lwn6dkfm","slide":8,"text":"可信 AI","textPreview":"可信 AI","textChars":5,"textLines":1,"bbox":[815,429,220,34]}
+{"kind":"textbox","id":"sh/ytwn25gv","slide":8,"text":"评测、溯源和安全机制逐渐成为基础能力。","textPreview":"评测、溯源和安全机制逐渐成为基础能力。","textChars":19,"textLines":1,"bbox":[815,485,220,64]}
+{"kind":"textbox","id":"sh/ju5obaxg","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1180,665,58,22]}
+{"kind":"notes","id":"nt/0oh9r3","slide":8,"text":""}
+{"kind":"slide","id":"sl/r7ild9","slide":9,"title":"结论","textShapes":6}
+{"kind":"textbox","id":"sh/l4butony","slide":9,"text":"结论","textPreview":"结论","textChars":2,"textLines":1,"bbox":[42,42,180,38]}
+{"kind":"textbox","id":"sh/y1kbi947","slide":9,"text":"AI 的核心变化，\n是智能正在成为基础设施","textPreview":"AI 的核心变化， | 是智能正在成为基础设施","textChars":21,"textLines":2,"bbox":[42,150,900,180]}
+{"kind":"shape","id":"sh/z2tcre5s","slide":9,"bbox":[42,390,1120,1]}
+{"kind":"textbox","id":"sh/87mtojm9","slide":9,"text":"01  选择高价值流程","textPreview":"01  选择高价值流程","textChars":11,"textLines":1,"bbox":[42,445,330,42]}
+{"kind":"textbox","id":"sh/98vuxonu","slide":9,"text":"02  建立数据与评测闭环","textPreview":"02  建立数据与评测闭环","textChars":13,"textLines":1,"bbox":[450,445,360,42]}
+{"kind":"textbox","id":"sh/m54bmt4j","slide":9,"text":"03  将安全治理同步设计","textPreview":"03  将安全治理同步设计","textChars":13,"textLines":1,"bbox":[860,445,350,42]}
+{"kind":"textbox","id":"sh/76dcvy5o","slide":9,"text":"从可验证的小场景开始，把模型能力转化为持续改进的组织能力。","textPreview":"从可验证的小场景开始，把模型能力转化为持续改进的组织能力。","textChars":29,"textLines":1,"bbox":[42,580,1050,52]}
+{"kind":"notes","id":"nt/r7ild9","slide":9,"text":""}
