@@ -8,3 +8,4 @@ deploy/.env.vm
 deploy/certs/
 deploy/secrets/
 tmp/
+admin-web/.DS_Store
