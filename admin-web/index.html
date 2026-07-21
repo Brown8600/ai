@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>星选商城管理后台</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div id="toast" class="toast"></div>
+  <section id="loginView" class="login-shell">
+    <div class="login-brand">
+      <div class="brand-mark">星</div>
+      <h1>星选商城</h1>
+      <p>商品、库存、订单与用户，一处从容管理。</p>
+    </div>
+    <form id="loginForm" class="login-card">
+      <div><span class="eyebrow">XINGXUAN CONSOLE</span><h2>管理员登录</h2></div>
+      <label>用户名<input id="username" autocomplete="username" value="admin" required></label>
+      <label>密码<input id="password" type="password" autocomplete="current-password" minlength="12" required></label>
+      <button class="primary wide" type="submit">登录后台</button>
+      <p id="loginError" class="error"></p>
+    </form>
+  </section>
+
+  <div id="appView" class="app hidden">
+    <aside class="sidebar">
+      <div class="logo"><span>星</span><div><b>星选商城</b><small>管理控制台</small></div></div>
+      <nav id="nav">
+        <button data-page="dashboard" class="active">概览</button>
+        <button data-page="products">商品管理</button>
+        <button data-page="categories">分类管理</button>
+        <button data-page="orders">订单管理</button>
+        <button data-page="users">用户管理</button>
+        <button data-page="admins" class="super-only">管理员</button>
+        <button data-page="audit" class="super-only">审计日志</button>
+      </nav>
+      <div class="side-footer"><div id="adminIdentity"></div><button id="logoutBtn" class="ghost">退出登录</button></div>
+    </aside>
+    <main>
+      <header><div><span class="eyebrow">XINGXUAN ADMIN</span><h1 id="pageTitle">经营概览</h1></div><button id="refreshBtn" class="secondary">刷新数据</button></header>
+      <div id="content"></div>
+    </main>
+  </div>
+
+  <dialog id="modal"><form method="dialog" class="modal-card"><div class="modal-head"><h2 id="modalTitle"></h2><button value="cancel" class="icon-btn">×</button></div><div id="modalBody"></div></form></dialog>
+  <script src="/app.js"></script>
+</body>
+</html>
+

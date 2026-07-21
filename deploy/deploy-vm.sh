@@ -47,23 +47,25 @@ set +a
 [[ ${#JWT_SECRET} -ge 32 ]] || { echo "JWT_SECRET must contain at least 32 characters." >&2; exit 1; }
 
 compose=(docker compose --env-file .env.vm -f docker-compose.vm.yml)
-"${compose[@]}" build api
+"${compose[@]}" build api admin-web
 "${compose[@]}" up -d postgres
 "${compose[@]}" run --rm api node dist/scripts/migrate.js
 if [[ "${SEED_ON_DEPLOY:-true}" == "true" ]]; then
   "${compose[@]}" run --rm api node dist/scripts/seed.js
 fi
 "${compose[@]}" run --rm api node dist/scripts/create-admin.js
-"${compose[@]}" up -d api
+"${compose[@]}" up -d api admin-web
 
 for _ in {1..30}; do
-  if curl --fail --silent http://127.0.0.1:3000/health >/dev/null; then
-    echo "VM API is healthy: http://$(hostname -I | awk '{print $1}'):3000/health"
+  if curl --fail --silent http://127.0.0.1:3000/health >/dev/null && curl --fail --silent http://127.0.0.1:8080/ >/dev/null; then
+    vm_ip="$(hostname -I | awk '{print $1}')"
+    echo "VM API is healthy: http://${vm_ip}:3000/health"
+    echo "Admin console is ready: http://${vm_ip}:8080"
     exit 0
   fi
   sleep 2
 done
 
-"${compose[@]}" logs --tail=100 api postgres
-echo "VM API did not become healthy in time." >&2
+"${compose[@]}" logs --tail=100 api admin-web postgres
+echo "VM API or admin console did not become healthy in time." >&2
 exit 1
